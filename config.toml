@@ -1,0 +1,14 @@
+siteTitle = "Blog de Sochan"
+siteDescr = "sochan's tech blog"
+siteAuthor = "sochan"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "#"
+siteGithubUrl = "#"
+siteEmailUrl = "#"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/"
