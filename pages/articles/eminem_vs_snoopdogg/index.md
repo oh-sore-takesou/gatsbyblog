@@ -11,20 +11,16 @@ description: "pythonライブラリscikit-learnを使って洋楽歌詞をアー
 
 先日機械学習ハンズオンでscikit-learnを用いた簡単なテキスト分類の手法を勉強したので、自分の好きなものに使ってみました。
 
-やりたいこと
-
----
+### やりたいこと
 
 アメリカのラッパーで有名な[EMINEM](https://ja.wikipedia.org/wiki/エミネム)と[SNOOP DOGG](https://ja.wikipedia.org/wiki/スヌープ・ドッグ)の歌詞を判定するモデルをSVMを用いて作成したい。
 
-手順
+### 手順
 
----
-
-scrapyで歌詞サイトから各アーティストの歌詞データを取得する
-scikit-learnのTfidfVectorizerでベクトル化する
-scikit-learnのsvmで学習
-評価
+1. scrapyで歌詞サイトから各アーティストの歌詞データを取得する
+2. scikit-learnのTfidfVectorizerでベクトル化する
+3. scikit-learnのsvmで学習
+4. 評価
 
 ---
 
