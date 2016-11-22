@@ -3,9 +3,7 @@ title: "youtube-ios-player-helplerでvevoの動画が再生できない問題"
 date: "2016-11-23"
 layout: post
 path: "/ios-youtube-restriction-error/"
-category: 
-    - "iOS"
-    - "youtube"
+category: "iOS"
 description: "This video contains content from VEVO. It is restricted from playback on certain sites. Watch on YouTubeの対処法"
 ---
 
