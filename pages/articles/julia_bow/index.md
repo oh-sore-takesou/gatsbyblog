@@ -23,7 +23,7 @@ description: "bowもどきをしながらjuliaに入門してみる"
 今回は何も使いません
 
 ## ソースコード
-[ここにあります]()
+[ここにあります](https://github.com/oh-sore-takesou/julia_word_count)
 
 ## 実践
 ### ファイルの読み込み
@@ -110,4 +110,3 @@ bow_corpuses = get_vector(docs, corpus, word2id, counts)
 
 ## 今後
 juliaの大きな特徴の一つである、行列計算とニューラルネットワーク(フレームワーク選定を含む)の記述をしてみたい。
-juliaのおお
