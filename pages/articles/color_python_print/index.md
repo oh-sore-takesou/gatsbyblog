@@ -1,6 +1,6 @@
 ---
 title: "pythonでの標準出力に色をつける"
-date: "2016-12-05"
+date: "2016-12-27"
 layout: post
 path: "/color_python_print/"
 category: "python"
