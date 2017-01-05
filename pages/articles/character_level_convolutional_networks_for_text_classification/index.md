@@ -1,4 +1,3 @@
-
 ---
 title: "Character-level Convolutional Networks for Text Classification"
 date: "2017-01-04"
